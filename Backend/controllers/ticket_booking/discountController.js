@@ -16,7 +16,7 @@ exports.createDiscountCode = async (req, res) => {
   } catch (error) {
     res.status(400).json({ message: error.message });
   }
-};
+}; //Finished the createDiscountCode function
 
 // Get all discount codes
 exports.getDiscountCodes = async (req, res) => {
