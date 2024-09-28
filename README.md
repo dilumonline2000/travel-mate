@@ -1,2 +1,4 @@
 # Travel Mate - Tourism and travel management application
-## ITP PRoject
+## ITP Project
+Members
+IT22135902 - HEWAMANNE N V
