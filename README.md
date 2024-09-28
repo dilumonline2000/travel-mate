@@ -1,2 +1,2 @@
-# Travel MMate - Tourism and travel management application
+# Travel Mate - Tourism and travel management application
 ## ITP PRoject
